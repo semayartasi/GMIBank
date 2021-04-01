@@ -1,0 +1,5 @@
+*.txt
+.idea
+*.csv
+# Project exclude paths
+/target/
